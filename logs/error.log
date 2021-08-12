@@ -1,0 +1,161 @@
+{
+  message: 'storage.user.create: finished with error: MongoError: E11000 duplicate key error collection: blog-app-ts.users index: phone_1 dup key: { phone: 998934820011.0 }',
+  level: 'error',
+  timestamp: '2021-08-10T11:15:36.039Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.create: finished with error: MongoError: E11000 duplicate key error collection: blog-app-ts.users index: phone_1 dup key: { phone: 998934820012.0 }',
+  level: 'error',
+  timestamp: '2021-08-10T11:16:35.779Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.create: finished with error: ValidationError: lastName: Path `lastName` is required., firstName: Path `firstName` is required.',
+  level: 'error',
+  timestamp: '2021-08-10T11:31:40.737Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.create: finished with error: ValidationError: lastName: Path `lastName` is required., firstName: Path `firstName` is required.',
+  level: 'error',
+  timestamp: '2021-08-10T11:33:57.483Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-10T11:46:32.253Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.create: finished with error: MongoError: E11000 duplicate key error collection: blog-app-ts.users index: phone_1 dup key: { phone: 998934820013.0 }',
+  level: 'error',
+  timestamp: '2021-08-10T12:07:56.002Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-10T12:14:52.263Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-10T12:14:55.436Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-10T12:15:15.001Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-10T12:15:16.029Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-10T12:15:16.943Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-10T12:15:17.672Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-10T12:15:18.426Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-10T12:15:19.118Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-10T12:15:19.837Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-10T12:16:34.063Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-10T12:16:35.120Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.create: finished with error: MongoError: E11000 duplicate key error collection: blog-app-ts.users index: phone_1 dup key: { phone: 998934820012.0 }',
+  level: 'error',
+  timestamp: '2021-08-12T05:50:09.585Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: ObjectParameterError: Parameter "filter" to findOne() must be an object, got 998934820012',
+  level: 'error',
+  timestamp: '2021-08-12T06:59:29.963Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: ObjectParameterError: Parameter "filter" to findOne() must be an object, got 998934820012',
+  level: 'error',
+  timestamp: '2021-08-12T06:59:33.712Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: ObjectParameterError: Parameter "filter" to findOne() must be an object, got 998934820012',
+  level: 'error',
+  timestamp: '2021-08-12T06:59:34.530Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: author: Path `author` is required., rating: Path `rating` (5000) is more than maximum allowed value (5).',
+  level: 'error',
+  timestamp: '2021-08-12T10:14:35.429Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: rating: Path `rating` (5000) is more than maximum allowed value (5).',
+  level: 'error',
+  timestamp: '2021-08-12T10:27:22.639Z',
+  label: 'blog-app',
+  metadata: {}
+}
