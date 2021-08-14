@@ -1,3 +1,4 @@
+import { string } from "joi"
 import mongoose from "mongoose"
 import { v4 as uuidv4 } from "uuid"
 
@@ -8,7 +9,7 @@ export interface IPost extends Document {
     rating: number
     free: boolean
     author: string
-    category: string[]
+    category: string
 }
 
 const postSchema = new mongoose.Schema({
@@ -39,12 +40,10 @@ const postSchema = new mongoose.Schema({
         type: String,
         ref: "User"
     },
-    category: [
-        {
-            type: mongoose.SchemaTypes.ObjectId,
-            ref: "Category"
-        }
-    ],
+    category: {
+        type: String,
+        ref: "Category"
+    },
     createdAt: {
         type: Date,
         default: Date.now(),

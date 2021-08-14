@@ -4398,3 +4398,572 @@
     }
   }
 }
+{
+  message: 'POST: 201 231ms /login',
+  level: 'info',
+  timestamp: '2021-08-14T05:00:35.121Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/login',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '888903ab-a212-42a2-b453-fe21ba9c7b02',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '55'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/login',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 231
+    }
+  }
+}
+{
+  message: 'POST: 500 156ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:05:12.267Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '16dd36cc-cb72-4b8a-bcac-28f6830f9943',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '86'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 156
+    }
+  }
+}
+{
+  message: 'POST: 201 224ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:07:33.907Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '7adfeb10-7bc1-42b1-ae7c-fa9a54392365',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '86'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 224
+    }
+  }
+}
+{
+  message: 'POST: 500 72ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:09:10.819Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '30b45ccb-a0c3-4156-9b96-967dc412c6f3',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '142'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 72
+    }
+  }
+}
+{
+  message: 'POST: 500 10ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:09:28.846Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '0a119b4d-d250-4ff6-b160-229c0d4d1486',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '144'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 10
+    }
+  }
+}
+{
+  message: 'POST: 500 142ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:10:46.094Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '5fb205a6-75ec-4d8a-a10b-c8c820ccdc3e',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '142'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 142
+    }
+  }
+}
+{
+  message: 'POST: 500 12ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:11:13.622Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '4d56bd57-2045-4cd5-9bef-5496fa7b6015',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '149'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 12
+    }
+  }
+}
+{
+  message: 'POST: 500 14ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:12:37.663Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'ee0231b0-394f-4282-9a61-21fc14389932',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '142'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 14
+    }
+  }
+}
+{
+  message: 'POST: 500 12ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:12:40.001Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'aedbef8e-ab04-4d32-b3f2-f3aadbab5e9e',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '142'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 12
+    }
+  }
+}
+{
+  message: 'POST: 500 21ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:12:40.929Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'bffac5f5-5d64-44a2-9b36-37444a8eb13a',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '142'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 21
+    }
+  }
+}
+{
+  message: 'POST: 500 11ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:12:41.341Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '1b96d5b2-ee1e-42a4-b49f-6a80b404b865',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '142'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 11
+    }
+  }
+}
+{
+  message: 'POST: 500 13ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:12:41.690Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '7d89af0d-de02-4ca0-a6b1-310a866608b2',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '142'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 13
+    }
+  }
+}
+{
+  message: 'POST: 201 66ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:14:09.370Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'd1acdaa2-5d6c-40ba-8e86-9bf90e2f8083',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '142'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 66
+    }
+  }
+}
+{
+  message: 'POST: 201 64ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:15:31.096Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'cbfdf031-3dca-4eef-ae2a-93fbf9cba2ae',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '142'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 64
+    }
+  }
+}
+{
+  message: 'POST: 201 24ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:15:31.988Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '9495ff41-9a9c-47a3-aa02-a612b4d7f9f8',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '142'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 24
+    }
+  }
+}
+{
+  message: 'POST: 201 16ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:15:59.787Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': 'dd3aba0f-b91d-4b00-8ec0-079251bb98df',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '142'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 16
+    }
+  }
+}
+{
+  message: 'POST: 201 14ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:16:00.705Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '0a60d114-63e8-4d6b-aef7-e34626536c86',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '142'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 14
+    }
+  }
+}
+{
+  message: 'POST: 201 11ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:17:02.264Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '0f8b16e1-8734-4faa-aa80-bdecb17f50ad',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '142'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 11
+    }
+  }
+}
+{
+  message: 'POST: 201 124ms /post',
+  level: 'info',
+  timestamp: '2021-08-14T05:17:35.967Z',
+  label: 'blog-app',
+  metadata: {
+    meta: {
+      req: {
+        url: '/post',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDExLCJpYXQiOjE2Mjg5MTcyMzV9.Fwv9zPnr0yuuZpTuS2XQVW6aswQdBLQ5TzQiq9taZNw',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.3',
+          accept: '*/*',
+          'postman-token': '2afa3325-2398-49ae-8ecd-bd05578871e1',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '142'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/post',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 124
+    }
+  }
+}

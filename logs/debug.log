@@ -2847,3 +2847,535 @@
   label: 'blog-app',
   metadata: {}
 }
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T04:42:28.636Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T04:42:28.834Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T04:42:28.854Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T04:42:29.019Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-14T04:43:28.506Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T04:45:59.256Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T04:45:59.296Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T04:45:59.300Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T04:45:59.335Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-14T04:46:13.996Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T04:49:03.938Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T04:49:03.976Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T04:49:03.980Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T04:49:04.045Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-14T04:49:07.613Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T04:51:42.403Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T04:51:42.439Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T04:51:42.443Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T04:51:42.479Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-14T04:51:47.217Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T04:54:10.142Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T04:54:10.178Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T04:54:10.182Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T04:54:10.212Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T04:55:54.547Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T04:55:54.588Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T04:55:54.592Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T04:55:54.626Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-14T04:55:56.687Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T04:59:32.208Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T04:59:32.248Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T04:59:32.251Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T04:59:32.281Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-14T04:59:35.866Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T05:00:31.935Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T05:00:31.990Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T05:00:31.994Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T05:00:32.026Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-14T05:00:59.561Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T05:01:14.895Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T05:01:14.946Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T05:01:14.960Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T05:01:15.004Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T05:02:15.231Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T05:02:15.264Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T05:02:15.269Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T05:02:15.309Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-14T05:03:25.076Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T05:05:08.100Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T05:05:08.132Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T05:05:08.136Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T05:05:08.169Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: CastError: Cast to Number failed for value "51b9470a-d9db-4d6e-9356-110cb3928cfc" (type string) at path "phone" for model "User"',
+  level: 'error',
+  timestamp: '2021-08-14T05:05:12.253Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T05:07:31.057Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T05:07:31.094Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T05:07:31.097Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T05:07:31.131Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: category.0: Cast to [ObjectId] failed for value "["b3e9b33b-b675-4dcf-926e-d79c39f37e9a"]" (type string) at path "category.0"',
+  level: 'error',
+  timestamp: '2021-08-14T05:09:10.764Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T05:10:43.462Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T05:10:43.511Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T05:10:43.515Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T05:10:43.564Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: category: Cast to ObjectId failed for value "b3e9b33b-b675-4dcf-926e-d79c39f37e9a" (type string) at path "category"',
+  level: 'error',
+  timestamp: '2021-08-14T05:10:46.000Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: category: Cast to ObjectId failed for value "b3e9b33b-b675-4dcf-926e-d79c39f37e9a" (type string) at path "category"',
+  level: 'error',
+  timestamp: '2021-08-14T05:12:37.660Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: category: Cast to ObjectId failed for value "b3e9b33b-b675-4dcf-926e-d79c39f37e9a" (type string) at path "category"',
+  level: 'error',
+  timestamp: '2021-08-14T05:12:39.997Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: category: Cast to ObjectId failed for value "b3e9b33b-b675-4dcf-926e-d79c39f37e9a" (type string) at path "category"',
+  level: 'error',
+  timestamp: '2021-08-14T05:12:40.923Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: category: Cast to ObjectId failed for value "b3e9b33b-b675-4dcf-926e-d79c39f37e9a" (type string) at path "category"',
+  level: 'error',
+  timestamp: '2021-08-14T05:12:41.338Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: category: Cast to ObjectId failed for value "b3e9b33b-b675-4dcf-926e-d79c39f37e9a" (type string) at path "category"',
+  level: 'error',
+  timestamp: '2021-08-14T05:12:41.688Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T05:14:02.056Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T05:14:02.092Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T05:14:02.095Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T05:14:02.132Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/blog-app-ts',
+  level: 'info',
+  timestamp: '2021-08-14T05:15:23.497Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-14T05:15:23.529Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-14T05:15:23.533Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-14T05:15:23.574Z',
+  label: 'blog-app',
+  metadata: {}
+}

@@ -12,7 +12,8 @@ export class PostValidator {
         title: Joi.string().required(),
         content: Joi.string().required(),
         rating: Joi.number(),
-        free: Joi.boolean()
+        free: Joi.boolean(),
+        category: Joi.string()
     })
 
     updateSchema = Joi.object({

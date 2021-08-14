@@ -159,3 +159,115 @@
   label: 'blog-app',
   metadata: {}
 }
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-14T04:43:28.507Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-14T04:46:13.998Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-14T04:49:07.614Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-14T04:51:47.219Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-14T04:55:56.688Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-14T04:59:35.867Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-14T05:00:59.562Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-14T05:03:25.078Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.user.findOne: finished with error: CastError: Cast to Number failed for value "51b9470a-d9db-4d6e-9356-110cb3928cfc" (type string) at path "phone" for model "User"',
+  level: 'error',
+  timestamp: '2021-08-14T05:05:12.253Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: category.0: Cast to [ObjectId] failed for value "["b3e9b33b-b675-4dcf-926e-d79c39f37e9a"]" (type string) at path "category.0"',
+  level: 'error',
+  timestamp: '2021-08-14T05:09:10.764Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: category: Cast to ObjectId failed for value "b3e9b33b-b675-4dcf-926e-d79c39f37e9a" (type string) at path "category"',
+  level: 'error',
+  timestamp: '2021-08-14T05:10:46.000Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: category: Cast to ObjectId failed for value "b3e9b33b-b675-4dcf-926e-d79c39f37e9a" (type string) at path "category"',
+  level: 'error',
+  timestamp: '2021-08-14T05:12:37.660Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: category: Cast to ObjectId failed for value "b3e9b33b-b675-4dcf-926e-d79c39f37e9a" (type string) at path "category"',
+  level: 'error',
+  timestamp: '2021-08-14T05:12:39.997Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: category: Cast to ObjectId failed for value "b3e9b33b-b675-4dcf-926e-d79c39f37e9a" (type string) at path "category"',
+  level: 'error',
+  timestamp: '2021-08-14T05:12:40.923Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: category: Cast to ObjectId failed for value "b3e9b33b-b675-4dcf-926e-d79c39f37e9a" (type string) at path "category"',
+  level: 'error',
+  timestamp: '2021-08-14T05:12:41.338Z',
+  label: 'blog-app',
+  metadata: {}
+}
+{
+  message: 'storage.post.create: finished with error: ValidationError: category: Cast to ObjectId failed for value "b3e9b33b-b675-4dcf-926e-d79c39f37e9a" (type string) at path "category"',
+  level: 'error',
+  timestamp: '2021-08-14T05:12:41.688Z',
+  label: 'blog-app',
+  metadata: {}
+}

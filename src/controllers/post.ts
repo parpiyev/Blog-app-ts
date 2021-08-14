@@ -1,12 +1,10 @@
 import { NextFunction, Request, Response } from "express"
-import { hasPermission } from "../middlewares/hasPermission"
 import { storage } from "../storage/main"
 import catchAsync from "../utils/catchAsync"
 
 export class PostController {
     getAll = catchAsync(async (req: Request, res: Response, next: NextFunction) => {
         const categorys = await storage.post.find(req.query)
-
         res.status(200).json({ success: true, data: { categorys } })
     })
 
@@ -16,8 +14,10 @@ export class PostController {
         res.status(200).json({ success: true, data: { post } })
     })
 
-    create = catchAsync(async (req: any, res: Response, next: NextFunction) => {
-        const post = await storage.post.create({ ...req.body })
+    create = catchAsync(async (req: Request, res: Response, next: NextFunction) => {
+        const user = await storage.user.findOne({ phone: res.locals.user })
+
+        const post = await storage.post.create({ ...req.body, author: user._id })
 
         res.status(201).json({ success: true, data: { post } })
     })
